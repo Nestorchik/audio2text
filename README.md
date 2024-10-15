@@ -1,7 +1,7 @@
 # Audio2Text
-Пример использования конвертера audio2text с https://huggingface.co/openai/whisper-large-v3
+## Пример использования конвертера audio2text с https://huggingface.co/openai/whisper-large-v3
 
-Использование:
+**Использование:**
 
 - git clone https://github.com/Nestorchik/audio2text.git
 - cd /d audio2text
@@ -21,9 +21,9 @@
 
 ---
 
-**Example of using converter audio2text from https://huggingface.co/openai/whisper-large-v3**
+## Example of using converter audio2text from https://huggingface.co/openai/whisper-large-v3**
 
-Using:
+**Using:**
 
 - git clone https://github.com/Nestorchik/audio2text.git
 - cd /d audio2text
