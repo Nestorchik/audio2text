@@ -15,4 +15,8 @@ Using:
 
 **DO NOT INTERRUPT IT!**
 
+- After the model is installed, the file execution will continue.
+- The result of the work will be output to the terminal and a copy will be saved in the created file "output.txt", to which the result of the next broadcast will be added at each subsequent start.
+- Each next launch is performed by the file "run.bat"
+
 
