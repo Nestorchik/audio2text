@@ -11,7 +11,6 @@ cd /d %curDir%
 echo @echo off >run.bat
 echo setlocal>>run.bat
 echo echo Wait...>>run.bat
-echo set PATH=%%CD%%\bin;%%CD%%\presets:%%PATH%%>>run.bat
 echo %CD%\venv\Scripts\python main.py>>run.bat
 echo echo ====================================>>run.bat
 echo echo See file "output.txt"...>>run.bat

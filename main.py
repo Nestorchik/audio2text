@@ -28,11 +28,11 @@ dataset = load_dataset("distil-whisper/librispeech_long", "clean", split="valida
 sample = dataset[0]["audio"]
 
 result = pipe("audio.mp3")
-print('=================')
+print('*')
 print()
 print(result["text"])
 print()
-print('=================')
+print('*')
 
 with open("output.txt", "a") as f:
     print(result["text"], file=f)
